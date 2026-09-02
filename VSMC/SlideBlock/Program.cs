@@ -1,10 +1,10 @@
-﻿namespace SlideBlock
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+﻿//namespace SlideBlock
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Hello, World!");
+//        }
+//    }
+//}
